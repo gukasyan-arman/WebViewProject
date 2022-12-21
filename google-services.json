@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862817680469",
+    "project_id": "anpaviwi",
+    "storage_bucket": "anpaviwi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862817680469:android:cd761325ab89b81bb568dc",
+        "android_client_info": {
+          "package_name": "winlain.winline.amboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862817680469-0lj1h9v2h3bq6ig13cbldmp61a375oml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxAAVipZuazzp-KFJFueniYdjNix5VRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862817680469-0lj1h9v2h3bq6ig13cbldmp61a375oml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

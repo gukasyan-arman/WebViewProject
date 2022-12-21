@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WinLine</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_fragment_text">Splash Fragment</string>
+    <string name="splash_fragment_error_text">An internet connection is required for the app to work.\nPlease turn on the internet and restart the app</string>
+    <string name="search_result">Search result:</string>
+    </resources>
